@@ -1,0 +1,8 @@
+{
+  "name": "Radiant Youth Network",
+  "description": "Empowering Youth. Transforming Lives. Building Futures. Official humanitarian, educational, and digital NGO management platform for Radiant Youth Network (RYN), founded by Ms. Zainab Asif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
